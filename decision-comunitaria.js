@@ -1,5 +1,5 @@
 const propuesta = "Mejorar la comunicación del barrio"
-let tieneLenguajeClaro = true
+let tieneLenguajeClaro = false
 let pideDatosNecesarios = true
 
 console.log("Revisión de propuesta comunitaria")

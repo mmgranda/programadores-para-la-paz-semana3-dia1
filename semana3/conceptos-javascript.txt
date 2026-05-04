@@ -1,47 +1,47 @@
 Conceptos básicos de JavaScript – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:jamer david guerrero correa
+Fecha:3 de mayo 2026
+Nombre de la rama:jamer_guerrero 
 
 Responde con tus propias palabras.
 
 1. ¿Qué es JavaScript?
 
-Respuesta:
+Respuesta: es un lenguaje de programacion que sirve para crear lógica y decisiones en aplicaciones. En esta clase lo usamos para verificar informacion y propuestas comunitarias.
 
 2. ¿Qué permite hacer Node.js en esta clase?
 
-Respuesta:
+Respuesta:Node.js permite ejecutar archivos JavaScript desde la terminal sin navegador. Con node archivo.js corremos los algoritmos.
 
 3. ¿Qué hace el comando node algoritmo-verificacion.js?
 
-Respuesta:
+Respuesta:Ejecuta el archivo y revisa si una fuente de información es confiable. Si es confiable muestra true y dice que se puede compartir con responsabilidad.
 
 4. ¿Qué es una variable?
 
-Respuesta:
+Respuesta:Es un espacio en memoria donde guardo datos que pueden cambiar durante el programa. Se declara con let.
 
 5. ¿Para qué se usa const?
 
-Respuesta:
+Respuesta:const se usa para declarar variables que no van a cambiar. Una vez que le doy un valor, no se puede modificar.
 
 6. ¿Para qué se usa let?
 
-Respuesta:
+Respuesta:let se usa para declarar variables que sí pueden cambiar de valor durante la ejecución del programa.
 
 7. ¿Qué significa if?
 
-Respuesta:
+Respuesta:if significa "si" en inglés. Sirve para tomar una decisión: si la condición es verdadera, ejecuta un bloque de código.
 
 8. ¿Qué significa else?
 
-Respuesta:
+Respuesta:else significa "si no" en inglés. Se ejecuta cuando la condición del if es falsa, como una alternativa.
 
 9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
 
-Respuesta:
+Respuesta:Porque ambas usan lógica antes de actuar. En programación uso if/else para verificar una condición antes de ejecutar código. En internet, una decisión responsable es verificar si una fuente es confiable antes de compartir información, para no difundir noticias falsas ni causar daño.
 
 10. ¿Cómo se relaciona este ejercicio con la verificación de información?
 
-Respuesta:
+Respuesta:El algoritmo-verificacion.js usa if/else para decidir si una fuente es confiable antes de permitir compartirla. El decision-comunitaria.js verifica si una propuesta cumple criterios antes de publicarla. Esto enseña que en internet también debemos verificar la información antes de compartirla, promoviendo responsabilidad ciudadana.

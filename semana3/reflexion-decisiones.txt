@@ -1,8 +1,8 @@
 Reflexión sobre decisiones responsables – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: yesenia bolaños
+Fecha: 04-05-2026
+Nombre de la rama: yesenia-bolaños
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,10 @@ En tu respuesta menciona al menos dos de estas ideas:
 - convivencia en internet
 
 Respuesta:
+Tomar decisiones responsables antes de compartir información pública es clave para la verificación de la información y la prevención de la desinformación.
+Si no revisamos lo que publicamos, podemos difundir datos falsos que afectan a otras personas.
+Además, usar un lenguaje claro ayuda a que el mensaje se entienda correctamente y evita confusiones.
+Actuar con responsabilidad digital también protege nuestra reputación y la de la comunidad.
+Esto fortalece la confianza comunitaria, ya que las personas valoran la información confiable.
+En una plataforma digital, cada acción influye en la convivencia en internet.
+Por eso, pensar antes de publicar contribuye a un entorno más seguro y respetuoso.

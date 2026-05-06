@@ -1,0 +1,5 @@
+Mantener un registro de cambios con Git es importante porque permite trabajar en equipo sin perder el trabajo de nadie. Si algo sale mal, podemos volver a una versión anterior que sí funcionaba, como cuando tuve que arreglar mi entrega de hoy.
+
+También sirve para ver quién hizo cada cambio y por qué, lo que da orden al proyecto. En mi caso, usar commits me ayudó a entender paso a paso cómo subí mis archivos a GitHub.
+
+Sin Git sería un caos: no sabríamos cuál es la versión final ni cómo llegamos ahí. Git es como la memoria del proyecto y nos da seguridad para experimentar sin miedo a dañar todo.

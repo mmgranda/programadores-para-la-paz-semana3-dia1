@@ -1,0 +1,11 @@
+Repositorio:
+Es una carpeta donde Git guarda todo tu proyecto y el historial de cambios.
+Puede estar en tu computador o en GitHub. Es como una caja fuerte para tu código.
+
+Commit:
+Es una foto de tu proyecto en un momento específico. Guarda los cambios que hiciste
+con un mensaje explicando qué cambiaste. Ejemplo: git commit -m "Añadí archivos"
+
+Push:
+Es el comando para subir tus commits desde tu computador a GitHub.
+Hace que los cambios que guardaste localmente se vean en internet.

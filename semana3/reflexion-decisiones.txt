@@ -1,8 +1,8 @@
 Reflexión sobre decisiones responsables – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante:natali villalba garizabalo
+Fecha: 6 de mayo del 2026
+Nombre de la rama: natali_villalba
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -19,3 +19,10 @@ En tu respuesta menciona al menos dos de estas ideas:
 - convivencia en internet
 
 Respuesta:
+Es importante tomar decisiones razonables antes de comprtir cualquier clase de información
+porque cualquier acción que haga en internet puede tener repercusiones tanto negativas 
+como positivas, pero más negativas, entonces hay que tener consiencia a la hora de tomas 
+las desiciones. verificar la imformación que se nos presente o que estemos buscando es
+el primer paso para evitar la desinformación y contribuir a la seguridad deigital; Nosotros
+como ciudadanos digitales debemos comunicar a otros sobre como prevenir esto, utilizando 
+un lenguaje claro. 

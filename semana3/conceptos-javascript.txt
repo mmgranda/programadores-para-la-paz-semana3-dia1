@@ -1,18 +1,18 @@
 Conceptos básicos de JavaScript – Semana 3 Día 1
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: natali villalba garizabalo
+Fecha: 6 de mayi del 2026
+Nombre de la rama: natali_villalba
 
 Responde con tus propias palabras.
 
 1. ¿Qué es JavaScript?
 
-Respuesta:
+Respuesta: JavaScriot es un lenguaje de progrmación interpretado, utilizado para el desarrollo de juegos y aplicaciones.
 
 2. ¿Qué permite hacer Node.js en esta clase?
 
-Respuesta:
+Respuesta:  
 
 3. ¿Qué hace el comando node algoritmo-verificacion.js?
 

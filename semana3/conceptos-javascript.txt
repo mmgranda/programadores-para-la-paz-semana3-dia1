@@ -12,36 +12,36 @@ Respuesta: JavaScriot es un lenguaje de progrmación interpretado, utilizado par
 
 2. ¿Qué permite hacer Node.js en esta clase?
 
-Respuesta:  
+Respuesta:  Node.js permite ejecutar código JavaScript fuera del navegador, directamente en la terminal. 
 
 3. ¿Qué hace el comando node algoritmo-verificacion.js?
 
-Respuesta:
+Respuesta:  ejecuta el archivo algoritmo-verificacion.js usando Node.js, mostrando el output en la terminal.
 
 4. ¿Qué es una variable?
 
-Respuesta:
+Respuesta: Una variable es un espacio en memoria para almacenar datos que pueden cambiar.
 
 5. ¿Para qué se usa const?
 
-Respuesta:
+Respuesta: const se usa para declarar constantes, valores que no cambian.
 
 6. ¿Para qué se usa let?
 
-Respuesta:
+Respuesta: let se usa para declarar variables que pueden cambiar su valor.
 
 7. ¿Qué significa if?
 
-Respuesta:
+Respuesta: if es una estructura condicional que ejecuta código si una condición es verdadera.
 
 8. ¿Qué significa else?
 
-Respuesta:
+Respuesta: else ejecuta código alternativo si la condición del if es falsa.
 
 9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
 
-Respuesta:
+Respuesta: Porque en ambos casos, se evalúan condiciones para tomar acciones seguras y éticas.
 
 10. ¿Cómo se relaciona este ejercicio con la verificación de información?
 
-Respuesta:
+Respuesta: El ejercicio simula verificar información antes de compartirla, como en internet

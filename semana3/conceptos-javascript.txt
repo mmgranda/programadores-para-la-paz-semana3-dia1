@@ -12,7 +12,11 @@ Respuesta: JavaScriot es un lenguaje de progrmación interpretado, utilizado par
 
 2. ¿Qué permite hacer Node.js en esta clase?
 
+<<<<<<< HEAD
 Respuesta: Node.js permite ejecutar código JavaScript fuera del navegador, directamente en la terminal. 
+=======
+Respuesta:  Node.js permite ejecutar código JavaScript fuera del navegador, directamente en la terminal. 
+>>>>>>> 6bed5bc5e981a1d62d9c2b2647503156e94785b2
 
 3. ¿Qué hace el comando node algoritmo-verificacion.js?
 
@@ -21,7 +25,10 @@ Respuesta:  ejecuta el archivo algoritmo-verificacion.js usando Node.js, mostran
 4. ¿Qué es una variable?
 
 Respuesta: Una variable es un espacio en memoria para almacenar datos que pueden cambiar.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 6bed5bc5e981a1d62d9c2b2647503156e94785b2
 
 5. ¿Para qué se usa const?
 
@@ -33,7 +40,11 @@ Respuesta: let se usa para declarar variables que pueden cambiar su valor.
 
 7. ¿Qué significa if?
 
+<<<<<<< HEAD
 Respuesta:  if es una estructura condicional que ejecuta código si una condición es verdadera.
+=======
+Respuesta: if es una estructura condicional que ejecuta código si una condición es verdadera.
+>>>>>>> 6bed5bc5e981a1d62d9c2b2647503156e94785b2
 
 8. ¿Qué significa else?
 
@@ -41,8 +52,16 @@ Respuesta: else ejecuta código alternativo si la condición del if es falsa.
 
 9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
 
+<<<<<<< HEAD
 Respuesta:  Porque en ambos casos, se evalúan condiciones para tomar acciones seguras y éticas.
 
 10. ¿Cómo se relaciona este ejercicio con la verificación de información?
 
 Respuesta: El ejercicio simula verificar información antes de compartirla, como en internet.
+=======
+Respuesta: Porque en ambos casos, se evalúan condiciones para tomar acciones seguras y éticas.
+
+10. ¿Cómo se relaciona este ejercicio con la verificación de información?
+
+Respuesta: El ejercicio simula verificar información antes de compartirla, como en internet
+>>>>>>> 6bed5bc5e981a1d62d9c2b2647503156e94785b2

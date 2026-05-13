@@ -26,7 +26,11 @@ Respuesta: git branch
 
 5. Comando usado para ejecutar algoritmo-verificacion.js:
 
+<<<<<<< HEAD
 Respuesta:  node algoritmo-verificacion.js
+=======
+Respuesta: node decision-comunitaria.js
+>>>>>>> 6bed5bc5e981a1d62d9c2b2647503156e94785b2
 
 6. Comando usado para ejecutar decision-comunitaria.js
 
